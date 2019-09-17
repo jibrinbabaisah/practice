@@ -1,1 +1,3 @@
-male or female
+male 	female
+umar	aisha
+musa	fati	
